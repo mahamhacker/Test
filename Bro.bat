@@ -1,1 +1,2 @@
-start "" http://www.stackoverflow.com
+@echo off
+start https://www.example.com
